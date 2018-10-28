@@ -49,6 +49,8 @@ int main(void){
 	push(6);
 	push(7);
   pop();
+	pop();
+	pop();
 	prints();
 
 	return 0;
